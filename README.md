@@ -34,7 +34,7 @@ The code in this repository has been used to research the reproducibility of the
 ## Installation Guide
 <ol type=1>
 <li> Download the repository as a .zip or clone the repository using:
-<br>git clone git@github.com:ARIJIT00171/RE-TRIANGLE.git
+<br>git clone git@github.com:anon-code-ai/anon-triangle.git
 </li>
 <br>
 <li> Run the remaining steps <b>only if</b> running the code on local machine:
@@ -334,4 +334,5 @@ python adhoc_scripts/ir_measures_eval.py \
     <path to directory containing trec_runs directory (with generated trec files)> \
     --output <path to directory where result csv will be stored>
 ```
+
 
