@@ -1,6 +1,6 @@
 # RE-TRIANGLE: Does TRIANGLE Enable Multimodal Alignment Beyond Cosine Similarity?
 
-![Animation](https://github.com/ARIJIT00171/RE-TRIANGLE/blob/722c96284f424a0abc5d38489580c99035f2f5a0/intro_gif.gif
+![Animation](https://github.com/anon-code-ai/anon-triangle/blob/a91f23f723df702555f1c7d75bda5ddfe73898da/intro_gif.gif
 )
 
 Welcome to the official repository for our reproducibility research of "**TRIANGLE**", a similarity measure that is directly computed in the higher-dimensional space spanned by the modality embeddings. The code is implemented in Python using PyTorch and Distributed Processing to provide an efficient and fast implementation of the algorithm.
@@ -334,3 +334,4 @@ python adhoc_scripts/ir_measures_eval.py \
     <path to directory containing trec_runs directory (with generated trec files)> \
     --output <path to directory where result csv will be stored>
 ```
+
